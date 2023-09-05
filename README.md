@@ -1,15 +1,13 @@
-# Dados Amazon
+## ✅ Dados Amazon
 
-## Analisando dados da Amazon
+Neste primeiro projeto, estarei analisando alguns dados de uma planilha em csv da Amazon.
 
--> Exportando tabela
+ 1. Exportando tabela.
+ 2. Tratamento de dados
+ 3. Criando coluna 'actual_price_brl' e convertendo o valor da coluna 'actual_price' para real/brl.
+ 4. Criei uma função para colorir as linhas. Valores até 50, de 50 a 500 e acima de 500.
+ 5. Gerei um gráfico também com os dados. Valores até 50, de 50 a 500 e acima de 500, com a quantidade de produtos.
 
--> Tratamento de dados
+## Em breve atualização
 
---> Criando tabela 'actual_price_brl' convertendo o valor em BRL.
-
---> Criamos uma função para colorir as linhas (Até 50) (50 a 500) (Acima de 500)
-
--> Geramos alguns valores para utilizar em nosso gráfico.
-
---> Geramos o gráfico com os dados dos produtos (Até 50) (50 a 500) (Acima de 500)
+ 1. Filtrar notas (Rating) dos produtos.
